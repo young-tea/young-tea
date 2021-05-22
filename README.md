@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @young-tea
-- 👀 I’m interested in coding(most web)
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on web codinng projects
-- 📫 How to reach me zasrem@gmail.com
+Hi, I'm YoungTea!
+
+Here is my <a href="young-teas-portfolio.tk">web-site</a>
+
+Im interested in web-development.
+
+If you want to reach me:
+
+Discord: YoungTea#3343
+Gmail: zasrem@gmail.com
 
 <!---
 young-tea/young-tea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
