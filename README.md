@@ -1,6 +1,6 @@
-<h1> Hi, I'm YoungTea! </h1>
-<h6>19yo, Israel</h6>
+<h1> YoungTea </h1>
+<h6>placeholder text</h6>
 
-<h3> Im interested in web-development, now learning node js </h3>
+<h3> idk what i do, but if you are reading this you will have explosive diarrhea from now on </h3>
 
-<p> eng / ru / he (learning German:))</p>
+<p>another placeholder text</p>
